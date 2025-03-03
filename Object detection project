@@ -1,0 +1,5 @@
+26/02/2025
+I just started the project, the purpose here is to analyse videos and images using YOLO8. For now the detection is not optimised and the xyxy data are not used to 
+analyse anything yet. These 2 points are the priorities.
+
+Coming soon...
